@@ -1,0 +1,38 @@
+
+FlexBox:
+--------
+✔ Flexbox is designed for one dimenssional layout.
+
+✔ Flexbox container can be  either in rows or columns.
+
+✔ This is best suitable for arranging items along a single axis and making dynamic layouts in one direction.
+
+✔ Flexbox can not interntionally overlap elements or items in a layout.
+
+✔ Flexbox listent to the content and adjust to it.
+
+✔ It can be a good choice for small scale layouts within larger components.
+
+Grid:
+-----
+
+✔ Grid layout is designed for two dimenssional layouts.
+
+✔ Allow to create rows and columns simultaneously.
+
+✔ This is best suitable for grid based designs where you need precise control over the placement of items in both directions.
+
+✔ Grid helps to create layouts with overlapping elements.
+
+✔ This is useful for responsive design.
+
+✔ Grid is an excellent choice for larger-scale layouts where you need to align and position items precisely.
+
+when to choose one over another:
+-------------------------------
+✔ Use flexbox when you need to arrange items along a single axis like navigation menu, card layouts, or align contents vertically.
+
+✔ Use grid when you need to create complex 2D layouts.
+
+✔ Both Flexbox and grid can be used together in same project.
+

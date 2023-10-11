@@ -1,0 +1,36 @@
+1. Justify content:
+---------------------
+The justify-content property is used to describe the alignment of flexible box container.
+
+Justify-content property accept different values:
+
+flex-start, flex-end, center, space-around, space between, space evenly
+
+2.align items:
+--------------
+This property is used to control how items are aligned vertically within a flex container or grid container.
+
+It works in conjunction with the display property set to either flex or grid.
+
+Properties like, flex-start, flex-end, center, baseline, stretch.
+
+3. gap:
+--------
+The gap property defines the size of the gap between the rows and columns in flexbox, grid .
+it has some Properties like row-gap, column-gap.
+Also gap property also known as grid-gap.
+
+
+4.flex-direction:
+-----------------
+Flex-direction property specifies the direction of flex items.
+
+Properties: row, column, row-reverse, column-reverse, initial
+
+
+5. flex-wrap:
+--------------
+The flex-wrap property specifies wheather the flexible items should wrap or not.
+If elements are not flexible, flex-wrap has no effect.
+
+Properties: wrap, nowrap, wrap-reverse, initial, inherit
